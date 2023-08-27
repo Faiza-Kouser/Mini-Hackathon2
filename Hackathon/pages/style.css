@@ -1,0 +1,167 @@
+/* ===================SignUp======================= */
+.head{
+    display: flex;
+    background-color: #7749F8;
+    padding-left: 100px;
+}
+#link_index{
+    text-decoration: none;
+    color: aliceblue;
+}
+#header{
+ padding-top: 200px;
+background-color: #7749F8;
+height:40px;
+padding:4px ;
+color: aliceblue;
+font-size: 20px;
+padding-top: 10px;
+}
+
+#ogout-btn {
+    background-color: #7749F8;
+    border: none;
+    padding: 0px 10px;
+    /* margin-left: 50px; */
+    color: aliceblue;
+    font-size: 14px;   
+}
+#logoutBtn1, #signup-psi , #logout-btn{
+    background-color: #7749F8;
+    border: none;
+    padding: 0px 10px;
+    margin-left: 800px;
+    color: aliceblue;
+    font-size: 14px; 
+
+}
+.signup-head{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    padding-left: 100px;
+    
+}
+.field-div {
+    display: flex;
+    justify-content: center;
+}
+.form{
+    padding-top: 100px;
+    background-color: rgb(243, 238, 238);
+   padding-bottom: 100px;
+}
+.parent-field-div{
+  background-color: #ffffff;
+  margin:20px 450px;
+  padding: 100px;
+}
+.fields {
+    /* border-style: none; */
+    border-radius: 10px;
+    border-bottom-style: solid;
+    border-color: #d5d5d6;
+    width: 250px;
+    height: 25px;
+    font-family: Inter;
+    font-size: 16px;
+    padding-left: 4px;
+    line-height: 25px;
+    padding: 2px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 0.5px;
+}
+
+ ::placeholder{
+    color: #b4a1a1;
+ }
+ #signup-btn, #login-btn {
+    background-color: #7749F8;
+    padding: 5px 10px;
+    margin-left: 90px;
+    border-radius: 5px;
+ }
+
+
+ /* ===========================dashboard=============================== */
+ .maindiv-dashboard{
+    padding-top: 50px;
+    background-color: rgb(243, 238, 238);
+    padding-bottom: 100px;
+ }
+.dashboard-parent-div{
+    background-color: #ffffff;
+     margin:0px 100px;
+     padding-left: 100px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+}
+.dashboard-title{
+    margin-bottom: 10px;
+   
+}
+#title{
+     width: 800px;
+     height: 30px;
+     border-radius: 7px;
+     border-style: solid;
+     border-width: 0.5px;
+     font-size: 14px;
+     padding-left: 15px;
+}
+#post{
+    width: 800px;
+    height: 200px;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 0.5px;
+    font-size: 14px;
+    padding-left: 15px;  
+}
+#publish-btn{
+    margin-top: 20px;
+    background-color: #7749F8;
+    color: #ffffff;
+    padding: 7px 12px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#divData{
+    margin: 100px;
+}
+#title1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#date1{
+    font-size: 14px;
+}
+#post1{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#userDashboard{
+    margin: 100px;
+}
+#edit-btn, #dlt-btn{
+margin: 10px;
+width: 70px;
+background-color: #7749F8;
+padding:8px;
+border-radius: 5px;
+border: none;
+color: aliceblue;
+font-size: 14px;  
+}
+#dlt-btn:hover{
+    background-color:  #43219f;
+}
+#p-name{
+    padding-left: 70px;
+    color: aliceblue;
+    font-size: 20px;  
+}
